@@ -45,13 +45,13 @@
 - Página de Planos
 ![Planos](./Wireframes/Planos.png)
 
-# Tecnologias Utilizadas
+## Tecnologias Utilizadas
 1. [Word](https://www.microsoft.com/pt-br/microsoft-365/word)
 2. [Figma](https://www.figma.com/)
 3. [Miro](https://miro.com/pt/)
 4. [Canva](https://www.canva.com/pt_br/)
 
-# Autores
+## Autores
 - Fernando Ferreira da Silva
 
 - João Pedro de Paula Silva
@@ -62,6 +62,6 @@
 
 - Thalita Soares Barbosa
 
-# Próximos Passos
+## Próximos Passos
 - [ ] Desenvolver Páginas Web do Projeto
 - [ ] Criar novas Páginas
