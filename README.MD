@@ -51,7 +51,7 @@
 3. [Miro](https://miro.com/pt/)
 4. [Canva](https://www.canva.com/pt_br/)
 
-# Pessoas Autoras
+# Autores
 - Fernando Ferreira da Silva
 
 - João Pedro de Paula Silva
