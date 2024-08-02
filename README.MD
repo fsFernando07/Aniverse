@@ -6,7 +6,7 @@
 - <a href="#funcionalidades-do-projeto">Funcionalidades do Projeto </a>
 - <a href="#layout"> Layout </a> 
 - <a href="#tecnologias-utilizadas"> Tecnologias Utilizadas </a> 
-- <a href="#pessoas-autoras"> Pessoas Autoras </a> 
+- <a href="#autores"> Autores </a> 
 - <a href="#próximos-passos"> Próximos Passos </a>
 
 ## Funcionalidades do Projeto
